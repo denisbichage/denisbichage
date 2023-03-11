@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis Bichage</h1>
-<h3 align="center">A serial developer from Kenya</h3>
+<h3 align="center"> I am proficient in various programming languages, including Python, Java, and JavaScript. I have experience with software development frameworks such as Django and Spring, as well as front-end development frameworks such as React and Vue. I am familiar with Agile methodology and Test-Driven Development, and I enjoy working in collaborative environments that encourage continuous learning and growth. My problem-solving skills allow me to analyze complex problems and come up with effective solutions, and I am always looking for ways to improve the user experience of the software I develop. from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denisbichage&label=Profile%20views&color=0e75b6&style=flat" alt="denisbichage" /> </p>
 
